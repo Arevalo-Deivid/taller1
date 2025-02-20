@@ -10,19 +10,16 @@
 
 ###
 
-<p align="left">Aquí tienes una versión básica en primera persona:
-
 ---
 
-Soy estudiante de quinto semestre de Ingeniería de Software, con conocimientos en programación orientada a objetos, estructuras de datos y bases de datos. Manejo lenguajes como Java y Python, y tengo experiencia básica en el desarrollo de aplicaciones web y móviles.  
+Soy estudiante de quinto semestre de Ingeniería de Software, con algunos conocimientos en programación y bases de datos. Manejo lenguajes como Java y Python, y tengo experiencia básica en el desarrollo de aplicaciones web.  
 
-Me gusta trabajar en equipo y estoy familiarizado con metodologías ágiles como Scrum. También utilizo herramientas de control de versiones como Git y tengo nociones de pruebas unitarias.  
+Me gusta trabajar en equipo y estoy familiarizado con metodologías ágiles.  
 
 Siempre busco mejorar mis habilidades y aprender nuevas tecnologías para crecer profesionalmente en el área del desarrollo de software.
 
 ---
-
-¿Te gustaría que añada algún otro detalle o está perfecto así?</p>
+</p>
 
 ###
 
