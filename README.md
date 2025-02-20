@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Deivid Arevalo and I'm a ..., from ....</p>
+<p align="left">My name is Deivid Arevalo and I'm a Ingeniero, from Software</p>
 
 ###
 
