@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Deivid Arevalo and I'm a Ingeniero, from Software</p>
+<p align="left">Mi nombre es Deivid Arevalo soy un estudiante de ingenieria de software</p>
 
 ###
 
