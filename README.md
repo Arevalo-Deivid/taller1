@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Deivid Arevalo soy un estudiante de ingenieria de software</p>
+<p align="left">Mi nombre es Deivid Arevalo, soy un estudiante de ingenieria de software</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ---
 
-Soy estudiante de quinto semestre de Ingeniería de Software, con algunos conocimientos en programación y bases de datos. Manejo lenguajes como Java y Python, y tengo experiencia básica en el desarrollo de aplicaciones web.  
+Soy estudiante de quinto semestre de Ingeniería de Software, con algunos conocimientos en programación y bases de datos. Manejo basico en lenguajes como Java y Python, y tengo experiencia básica en el desarrollo de aplicaciones web.  
 
 Me gusta trabajar en equipo y estoy familiarizado con metodologías ágiles.  
 
@@ -31,8 +31,7 @@ Siempre busco mejorar mis habilidades y aprender nuevas tecnologías para crecer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+
   
 </div>
 
