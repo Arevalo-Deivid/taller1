@@ -12,7 +12,7 @@
 
 ---
 
-Soy estudiante de quinto semestre de Ingeniería de Software, con algunos conocimientos en programación y bases de datos. Manejo basico en lenguajes como Java y Python, y tengo experiencia básica en el desarrollo de aplicaciones web.  
+Soy un estudiante de Ingeniería de Software, con algunos conocimientos en programación y bases de datos. Manejo basico en lenguajes como Java y Python, y tengo experiencia básica en el desarrollo de aplicaciones web.  
 
 Me gusta trabajar en equipo y estoy familiarizado con metodologías ágiles.  
 
